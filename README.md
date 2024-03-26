@@ -1,7 +1,7 @@
-#Project Overview
+**#Project Overview
 This project focuses on analyzing employee presence data, including work from home, sick leaves, paid leaves, hybrid work models, and various other leave categories. The primary goal is to assist the company in planning and implementing a hybrid working model effectively, enabling cost savings on infrastructure while maintaining productivity and employee well-being.
 
-#Key Features
+**#Key Features
 1. Work Presence Analysis:
    The project provides insights into the distribution of employee work modalities, such as on-site, work from home, and hybrid arrangements. This information can help optimize office space utilization and plan team events or interactions when more employees are likely to be present.
 3. Leave Analysis:
